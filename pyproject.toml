@@ -8,6 +8,7 @@ dependencies = [
     "fg-data-profiling>=4.20.0",
     "ipykernel>=7.3.0",
     "ipywidgets>=8.1.9",
+    "nltk>=3.10.3",
     "notebook>=7.6.2",
     "pandas>=2.2,<3",
     "rich>=15.0.0",
